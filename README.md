@@ -19,12 +19,7 @@ I’m currently learning Java (+Spring Boot) and Javascript (+Angular)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub](https://img.icons8.com/color/48/000000/github--v1.png)
-  
-  ### My personal website in with interesting projects
-   You can check my personal website on:
-    _soon_
-  
-  ### Profile Views:
-  ![Visitor Count](https://profile-counter.glitch.me/Fer3D/count.svg)
+### Profile Views:
+![Visitor Count](https://profile-counter.glitch.me/Fer3D/count.svg)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fer3D&layout=compact)](https://github.com/Fer3D?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fer3D&layout=compact)](https://github.com/Fer3D?tab=repositories)
