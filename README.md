@@ -19,6 +19,8 @@ I’m currently learning Java (+Spring Boot) and Javascript (+Angular)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub](https://img.icons8.com/color/48/000000/github--v1.png)
+![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+
 ### Profile Views:
 ![Visitor Count](https://profile-counter.glitch.me/Fer3D/count.svg)
 
