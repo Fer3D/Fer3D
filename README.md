@@ -20,10 +20,6 @@ I’m currently learning Java (+Spring Boot) and Javascript (+Angular)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub](https://img.icons8.com/color/48/000000/github--v1.png)
 
-
-
-
-
 ### How to reach me 📫
   
   <div> 
@@ -43,3 +39,5 @@ I’m currently learning Java (+Spring Boot) and Javascript (+Angular)
   
   ### Profile Views:
   ![Visitor Count](https://profile-counter.glitch.me/Fer3D/count.svg)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fer3D&layout=compact)](https://github.com/Fer3D?tab=repositories)
