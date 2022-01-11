@@ -1,12 +1,12 @@
-### About Me 👋
+### 👋 About Me
 
 Hi, I'm Fer, a Spanish web developer. I like to learn new things every day and I love modern technologies.
 
-### Actually learning 🌱
+### 🌱 Actually learning
 
 I’m currently learning Java (+Spring Boot) and Javascript.
 
-### I'm used to work with 👩‍💻
+### 👩‍💻 I'm used to work with
 
 ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
