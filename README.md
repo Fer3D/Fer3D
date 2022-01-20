@@ -12,6 +12,7 @@ I’m currently learning Java (+ Spring Boot) and Javascript (+ Angular)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![Angular](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png)
 ![Redis](https://img.icons8.com/color/48/000000/redis.png)
@@ -22,7 +23,9 @@ I’m currently learning Java (+ Spring Boot) and Javascript (+ Angular)
 ![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
 ![VirtualBox](https://img.icons8.com/fluency/48/000000/virtualbox--v1.png)
 ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+![Photoshop](https://img.icons8.com/fluency/48/000000/adobe-photoshop.png)
 ![Windows](https://img.icons8.com/color/48/000000/windows-logo.png)
+
 
 ### Profile Views:
 ![Visitor Count](https://profile-counter.glitch.me/Fer3D/count.svg)
