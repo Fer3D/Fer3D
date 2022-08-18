@@ -4,7 +4,7 @@ Hi, I'm Fer, a Spanish web developer. I like to learn new things every day and I
 
 ### 🌱 Actually learning
 
-I’m currently learning Java (+ Spring Boot) and Javascript (+ Angular)
+I’m currently learning Lua
 
 ### 👩‍💻 I'm used to work with
 
