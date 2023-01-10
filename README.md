@@ -25,6 +25,7 @@ I’m currently learning Lua
 ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![Photoshop](https://img.icons8.com/fluency/48/000000/adobe-photoshop.png)
 ![Windows](https://img.icons8.com/color/48/000000/windows-logo.png)
+![Lua](https://img.icons8.com/color/48/000000/lua-language--v1.png)
 
 
 ### Profile Views:
