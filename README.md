@@ -4,7 +4,7 @@ Hi, I'm Fer, a Spanish web developer. I like to learn new things every day and I
 
 ### 🌱 Actually learning
 
-I’m currently learning Lua (Glua)
+I'm currently learning Lua (GLua) and creating video games.
 
 ### 👩‍💻 I'm used to work with
 
