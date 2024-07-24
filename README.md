@@ -1,6 +1,7 @@
 ### 👋 About Me
 
 Hi, I'm Fer, a Spanish web developer. I like to learn new things every day and I love modern technologies.
+Suelo programar en español porque me gusta apoyar a la comunidad hispana.
 
 ### 🌱 Actually learning
 
