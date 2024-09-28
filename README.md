@@ -1,13 +1,19 @@
-### 👋 About Me
+<p align="center" width="300">
+   <img align="center"  src="https://github.com/user-attachments/assets/0467fec6-dd16-43e0-b817-47601a9af925" />
+   <h3 align="center">¡Hey👋! Soy Fer👨🏻‍💻</h3>
+  <p align="center">Soy un <strong>Desarrollador Full Stack</strong> español con +5 años experiencia, no me gusta limitarme a una sola tecnologia.<br></p>
+</p>
 
-Hi, I'm Fer, a Spanish web developer. I like to learn new things every day and I love modern technologies.
-Suelo programar en español porque me gusta apoyar a la comunidad hispana.
+### 👋 Sobre mi
 
-### 🌱 Actually learning
+Me encanta aprender cosas nuevas todos los días y estar informado de la actualidad en el mundo del desarrollo.
+Suelo programar en español porque me gusta apoyar a la comunidad hispana, pero no tengo problema con desarrollar en inglés.
 
-I'm currently learning Lua (GLua) and creating video games.
+### 🌱 Siempre aprendiendo
 
-### 👩‍💻 I'm used to work with
+Actualmente estoy aprendiendo GLua y Desarrollo de Videojuegos, aunque en el día a día siempre estoy aprendiendo un **de todo**.
+
+### 👩‍💻 He trabajado con
 
 ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
@@ -30,7 +36,8 @@ I'm currently learning Lua (GLua) and creating video games.
 ![Lua](https://img.icons8.com/color/48/000000/lua-language--v1.png)
 
 
-### Profile Views:
-![Visitor Count](https://profile-counter.glitch.me/Fer3D/count.svg)
+### 📒 Visitas:
+![Contador de Visitas](https://profile-counter.glitch.me/Fer3D/count.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fer3D&layout=compact)](https://github.com/Fer3D?tab=repositories)
+### 🧩 Otros:
+<a href="https://github.com/Fer3D"><img width="40%" src="http://github-readme-streak-stats.herokuapp.com/?user=Fer3D&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="Fer3D"></a>
