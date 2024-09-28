@@ -41,4 +41,4 @@ Actualmente estoy aprendiendo GLua y Desarrollo de Videojuegos, aunque en el dí
 ![Contador de Visitas](https://profile-counter.glitch.me/Fer3D/count.svg)
 
 ### 🧩 Otros:
-<a href="https://github.com/Fer3D"><img width="40%" src="http://github-readme-streak-stats.herokuapp.com/?user=Fer3D&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="Fer3D"></a>
+<a href="https://github.com/Fer3D"><img width="40%" src="http://github-readme-streak-stats.herokuapp.com/?user=Fer3D&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&ring=ddddd&fire=dddddd&sideNums=dddddd" alt="Fer3D"></a>
