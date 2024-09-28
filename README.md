@@ -7,6 +7,7 @@
 ### 👋 Sobre mi
 
 Me encanta aprender cosas nuevas todos los días y estar informado de la actualidad en el mundo del desarrollo.
+
 Suelo programar en español porque me gusta apoyar a la comunidad hispana, pero no tengo problema con desarrollar en inglés.
 
 ### 🌱 Siempre aprendiendo
