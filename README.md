@@ -12,7 +12,7 @@ Suelo programar en español porque me gusta apoyar a la comunidad hispana, pero 
 
 ### 🌱 Siempre aprendiendo
 
-Actualmente estoy aprendiendo GLua y Desarrollo de Videojuegos, aunque en el día a día siempre estoy aprendiendo un **de todo**.
+Actualmente estoy aprendiendo GLua y Desarrollo de Videojuegos, aunque en el día a día siempre estoy aprendiendo **de todo**.
 
 ### 👩‍💻 He trabajado con
 
