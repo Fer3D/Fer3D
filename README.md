@@ -36,9 +36,5 @@ Actualmente estoy aprendiendo C# y Desarrollo de Videojuegos, aunque en el día 
 ![Windows](https://img.icons8.com/color/48/000000/windows-logo.png)
 ![Lua](https://img.icons8.com/color/48/000000/lua-language--v1.png)
 
-
-### 📒 Visitas:
-![Contador de Visitas](https://profile-counter.glitch.me/Fer3D/count.svg)
-
 ### 🧩 Otros:
 <a href="https://github.com/Fer3D"><img src="http://github-readme-streak-stats.herokuapp.com/?user=Fer3D&locale=es&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&ring=ddddd&fire=dddddd&sideNums=dddddd" alt="Fer3D"></a>
