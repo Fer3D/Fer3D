@@ -145,7 +145,7 @@ Soy un desarrollador Full Stack español al que no le gusta limitarse a una sola
 
 ---
 
-## Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60" height="60" alt="">
+## Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" alt="">
 
 <p align="center">
   <a href="https://github.com/Fer3D"><img src="https://img.shields.io/github/followers/Fer3D?label=Follow%20Me&amp;style=social" alt="Follow Me"></a>
