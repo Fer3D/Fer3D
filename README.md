@@ -5,7 +5,7 @@
 <h2 align="center">Hi there! 👋 I'm Fer</h2>
 
 <p align="center">
-  💻 <em>Full Stack Developer with 5+ years of experience</em><br>
+  💻 <em>Full Stack Developer with 6+ years of experience</em><br>
   🎮 <em>Game Dev · Garry's Mod / Helix · Unity · Web · Automation</em>
 </p>
 
