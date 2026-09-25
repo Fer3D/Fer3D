@@ -13,7 +13,7 @@
 
 Hello and welcome! Glad you're here 😄
 
-I'm a Spanish Full Stack developer who doesn't like being locked to a single stack. I ship web apps, game tools, GMod/Helix plugins, Unity games, and automation scripts.
+I'm a Spanish Full Stack Developer with 6+ years of experience. I enjoy working across different stacks and picking the right tools for the problem. I build web apps, game tools, GMod/Helix plugins, Unity games, and automation scripts.
 
 <strong>Always open to new opportunities and collaborations!</strong> 🚀
 
